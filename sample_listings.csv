@@ -1,0 +1,4 @@
+listing_id,title,url,price,city,description,chat_available,published_at
+sample-001,پژو ۲۰۶ تیپ ۲,https://example.com/listing/sample-001,450000000,تهران,خودرو تمیز و کم کارکرد,true,
+sample-002,سمند LX,https://example.com/listing/sample-002,380000000,کرج,فروش خودرو,false,
+sample-003,مبل راحتی,https://example.com/listing/sample-003,12000000,تهران,تمیز,true,
